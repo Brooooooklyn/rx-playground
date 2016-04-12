@@ -1,0 +1,15 @@
+{
+  "name": "rx-playground",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/app.js",
+  "scripts": {
+    "compile": "tsc ./src/app.ts -m commonjs --sourceMap --outDir ./lib --target ES2015 -d --diagnostics --pretty --noImplicitAny --suppressImplicitAnyIndexErrors",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lynweklm@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^5.0.0-beta.5"
+  }
+}

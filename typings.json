@@ -1,0 +1,6 @@
+{
+  "ambientDependencies": {
+    "isomorphic-fetch": "registry:dt/isomorphic-fetch#0.0.0+20160316155526",
+    "node": "registry:dt/node#4.0.0+20160330064709"
+  }
+}
